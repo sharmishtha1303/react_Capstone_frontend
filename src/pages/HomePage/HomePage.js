@@ -5,7 +5,6 @@ function HomePage() {
   
     <div>HomePage</div>
   )
-  debugger;
 }
 
 export default HomePage;
